@@ -9,7 +9,7 @@
             "changeTime": 1538538801626,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1538538801626,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1538541375375,
-            "changeTime": 1538541375375,
-            "contentHash": "3ea6cd31d3f9b8b778523ebacbf570021982db47"
+            "modifiedTime": 1538540722583,
+            "changeTime": 1538540722583,
+            "contentHash": "dd490d3c462c3c8b41a169355ab7677bd3c9f3d6"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1538538801628,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1538538915430,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,807 +75,781 @@
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1057,
             "modifiedTime": 1538540722380,
             "changeTime": 1538540722380,
-            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 6586,
             "modifiedTime": 1538540722380,
             "changeTime": 1538540722380,
-            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1674,
             "modifiedTime": 1538540722380,
             "changeTime": 1538540722380,
-            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1338,
             "modifiedTime": 1538540722380,
             "changeTime": 1538540722380,
-            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2033,
             "modifiedTime": 1538540722395,
             "changeTime": 1538540722395,
-            "contentHash": "435bd78bdf5d30e6d15cd41363238b64057825a2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "435bd78bdf5d30e6d15cd41363238b64057825a2"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 426,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 417,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 420,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 491,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2043,
             "modifiedTime": 1538540722426,
             "changeTime": 1538540722426,
-            "contentHash": "1587e4b436db0c46678d5169cea469d20df75dfb",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1587e4b436db0c46678d5169cea469d20df75dfb"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 506,
             "modifiedTime": 1538540722426,
             "changeTime": 1538540722426,
-            "contentHash": "c0c0a535bc378420d7ae804f1195e6de33bef4eb",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c0c0a535bc378420d7ae804f1195e6de33bef4eb"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 506,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "d20213c5a36261a97bbefe05867a138be33c8f0e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "d20213c5a36261a97bbefe05867a138be33c8f0e"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 497,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "00344b4aca849ec6030feeb736bf51cbad91d8df",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "00344b4aca849ec6030feeb736bf51cbad91d8df"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 506,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "1ef0adbe7b465984dba27403b430e34466621ba3",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1ef0adbe7b465984dba27403b430e34466621ba3"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 503,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "76cd34faa5ab3268cd5c2c5cd9064d8d1666a21b",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "76cd34faa5ab3268cd5c2c5cd9064d8d1666a21b"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 435,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2040,
             "modifiedTime": 1538540722473,
             "changeTime": 1538540722473,
-            "contentHash": "ee9bf9bd44f6dea3f045b2e901bdaa0e0d58e203",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ee9bf9bd44f6dea3f045b2e901bdaa0e0d58e203"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2331,
             "modifiedTime": 1538540722473,
             "changeTime": 1538540722473,
-            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 390,
             "modifiedTime": 1538540722473,
             "changeTime": 1538540722473,
-            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 589,
             "modifiedTime": 1538540722473,
             "changeTime": 1538540722473,
-            "contentHash": "ad0ed03da50bdbdca9dbbb43e06577ca1edcc274",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ad0ed03da50bdbdca9dbbb43e06577ca1edcc274"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 315,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 393,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 377,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 465,
             "modifiedTime": 1538540722505,
             "changeTime": 1538540722505,
-            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2915,
             "modifiedTime": 1538540722520,
             "changeTime": 1538540722520,
-            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3470,
             "modifiedTime": 1538540722520,
             "changeTime": 1538540722520,
-            "contentHash": "56249cea8a60ab2e683caa64de55d259149644d2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "56249cea8a60ab2e683caa64de55d259149644d2"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3208,
             "modifiedTime": 1538540722520,
             "changeTime": 1538540722520,
-            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1538540722536,
             "changeTime": 1538540722536,
-            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9456,
             "modifiedTime": 1538540722536,
             "changeTime": 1538540722536,
-            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9771,
             "modifiedTime": 1538540722552,
             "changeTime": 1538540722552,
-            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1538540722552,
             "changeTime": 1538540722552,
-            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1538540722567,
             "changeTime": 1538540722567,
-            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1538540722583,
             "changeTime": 1538540722583,
-            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 225,
             "modifiedTime": 1538540722583,
             "changeTime": 1538540722583,
-            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9106,
             "modifiedTime": 1538540722583,
             "changeTime": 1538540722583,
-            "contentHash": "579e003e72e155f54a9ce3f0bcedb0ad6cecdd80",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "579e003e72e155f54a9ce3f0bcedb0ad6cecdd80"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 23507,
             "modifiedTime": 1538540722598,
             "changeTime": 1538540722598,
-            "contentHash": "c210dd02e9ae1c0005e5e399cfadff1a480d323f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c210dd02e9ae1c0005e5e399cfadff1a480d323f"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9102,
             "modifiedTime": 1538540722614,
             "changeTime": 1538540722614,
-            "contentHash": "a1d7dc51797286684d939e81b9ccb8fbef270e9c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a1d7dc51797286684d939e81b9ccb8fbef270e9c"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9442,
             "modifiedTime": 1538540722614,
             "changeTime": 1538540722614,
-            "contentHash": "74299d41a683beb0b217516c191a3a82545dd344",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "74299d41a683beb0b217516c191a3a82545dd344"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\globalValueSets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722380,
             "changeTime": 1538540722380,
-            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722505,
             "changeTime": 1538540722505,
-            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722411,
             "changeTime": 1538540722411,
-            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722426,
             "changeTime": 1538540722426,
-            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722442,
             "changeTime": 1538540722442,
-            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722473,
             "changeTime": 1538540722473,
-            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722489,
             "changeTime": 1538540722489,
-            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722505,
             "changeTime": 1538540722505,
-            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722505,
             "changeTime": 1538540722505,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722552,
             "changeTime": 1538540722552,
-            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722583,
             "changeTime": 1538540722583,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
         }
     ],
     [
         "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538540722614,
             "changeTime": 1538540722614,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\permissionsets",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1538541885883,
-            "changeTime": 1538541885938,
-            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20"
-        }
-    ],
-    [
-        "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jittramas.kumpeepong\\sfdx_trainning\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 8364,
-            "modifiedTime": 1538534253817,
-            "changeTime": 1538534253817,
-            "contentHash": "a4cdf2f8c9963952fdd4a38a2629d240c2cdc748"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
